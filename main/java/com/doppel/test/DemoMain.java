@@ -1,4 +1,4 @@
-package com.doppel;
+package com.doppel.test;
 
 import lombok.Builder;
 
