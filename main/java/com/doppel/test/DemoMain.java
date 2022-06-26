@@ -9,6 +9,6 @@ public class DemoMain {
     }
 
     public String getTestString() {
-        return "test";
+        return "te2st";
     }
 }
